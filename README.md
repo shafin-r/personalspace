@@ -1,3 +1,3 @@
-# personalspace
+# folio
 
-config files for my portfolio
+config files for my portfolio.
